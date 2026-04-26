@@ -1,5 +1,5 @@
 # HR Employee Attrition Analysis
-### Excel data analysis project — IBM HR Dataset
+### Excel data analysis project, IBM HR Dataset
 
 ## Overview
 This project analyzes employee attrition data from a real-world IBM HR dataset using Microsoft Excel.
